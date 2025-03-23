@@ -2,31 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "http://blog.fy1ng.cn/"
+    "link": "https://blog.fy1ng.cn/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "http://pan.fy1ng.cn/"
+    "link": "https://pan.fy1ng.cn/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "http://music.fy1ng.cn/"
+    "link": "https://music.fy1ng.cn/"
   },
   {
     "icon": "Toolbox",
     "name": "工具箱",
-    "link": "http://tool.fy1ng.cn/"
+    "link": "https://tool.fy1ng.cn/"
   },
   {
     "icon": "FileAlt",
     "name": "设置文件",
-    "link": "http://setting.fy1ng.cn/"
+    "link": "https://setting.fy1ng.cn/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "http://status.fy1ng.cn/"
+    "link": "https://status.fy1ng.cn/"
   }
 ]
